@@ -1,6 +1,8 @@
 Interface:
 ===
-**AI-HEAD**: **A**uto-**i**ndexing for **He**lical **a**ssembles’ **d**iffraction and structure determination
+**HelicalSeeker**: the automated approach to determine helical parameters and analyze dynamic helical assemblies 
+
+Previously name:(**AI-HEAD**: **A**uto-**i**ndexing for **He**lical **a**ssembles’ **d**iffraction and structure determination)
 
 ![image](Graphical_Interface.png)
 
@@ -102,6 +104,7 @@ More details about our programs could be found at:
 https://doi.org/10.1101/2025.11.17.688965
 
 **If AI-HEAD is useful for your work, please cite our article.**
+
 
 
 
